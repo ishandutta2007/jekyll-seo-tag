@@ -14,6 +14,7 @@
   * Truncate the description value to 100 words (#492)
   * Add support for title_category (#517)
   * feat: Add canonical=false option to disable canonical URL output (#521)
+  * Add a article:modified_time property for articles (#515)
 
 ### Documentation
 
